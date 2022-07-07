@@ -4,7 +4,7 @@ In this report, an Exploratory Data Analysis (EDA) will be preformed on Barcelon
 
 # DATASET
 
-In this project, three files were used and their respective contents are as follow:
+In this project, two files were used and their respective contents are as follow:
 
 `Accidents_2017.csv`
 
