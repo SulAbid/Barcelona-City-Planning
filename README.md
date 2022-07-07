@@ -45,3 +45,18 @@ In this project, three files were used and their respective contents are as foll
 | PM10 Value   | The value of the PM10 in the air             |
 | Generated    | The specific date of the measurement         |
 | Date Time    | A generated ID number                        |
+
+# LIBRARIES
+
+-   pandas
+
+-   numpy
+
+-   matplotlib
+
+-   seaborn
+
+-   scipy
+
+-   folium
+
